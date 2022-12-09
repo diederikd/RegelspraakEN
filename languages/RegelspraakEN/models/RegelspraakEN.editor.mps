@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:62c0dc02-0eae-4e47-a5d8-d0a59b0a407d(NewLanguage.editor)">
+<model ref="r:62c0dc02-0eae-4e47-a5d8-d0a59b0a407d(RegelspraakEN.editor)">
   <persistence version="9" />
   <languages>
     <use id="18bc6592-03a6-4e29-a83a-7ff23bde13ba" name="jetbrains.mps.lang.editor" version="14" />
@@ -704,7 +704,7 @@
   <node concept="24kQdi" id="Cu$LnWSznO">
     <ref role="1XX52x" to="m234:7Wa3vwiUUyV" resolve="Regel" />
     <node concept="2aJ2om" id="Cu$LnWSznQ" role="CpUAK">
-      <ref role="2$4xQ3" node="Cu$LnWyrz3" />
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
     </node>
     <node concept="3EZMnI" id="7Wa3vwjbwmY" role="2wV5jI">
       <node concept="l2Vlx" id="7Wa3vwjbwmZ" role="2iSdaV" />
@@ -935,7 +935,7 @@
   <node concept="24kQdi" id="4eptppsC2sJ">
     <ref role="1XX52x" to="m234:4WdvrS6kTEJ" resolve="SamengesteldeVoorwaarde" />
     <node concept="2aJ2om" id="4eptppsC2sL" role="CpUAK">
-      <ref role="2$4xQ3" node="Cu$LnWyrz3" />
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
     </node>
     <node concept="3EZMnI" id="5_kzpqToEsh" role="2wV5jI">
       <node concept="l2Vlx" id="5_kzpqToEsi" role="2iSdaV" />
@@ -950,7 +950,7 @@
   <node concept="24kQdi" id="2tYSmzL6lK0">
     <ref role="1XX52x" to="m234:$infi2sFI8" resolve="ParameterRef" />
     <node concept="2aJ2om" id="2tYSmzL6lK2" role="CpUAK">
-      <ref role="2$4xQ3" node="Cu$LnWyrz3" />
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
     </node>
     <node concept="3EZMnI" id="P1ok9RwLAv" role="2wV5jI">
       <node concept="2iRfu4" id="P1ok9RwLAw" role="2iSdaV" />
@@ -960,7 +960,7 @@
             <node concept="3clFbS" id="6CWsekB4Ano" role="2VODD2">
               <node concept="3clFbF" id="2tYSmzL6oGd" role="3cqZAp">
                 <node concept="2YIFZM" id="3Xewm39Htxs" role="3clFbG">
-                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                   <ref role="37wK5l" to="qvnp:2tYSmzL6o6Z" resolve="lidwoord" />
                   <node concept="2OqwBi" id="2tYSmzL6p6O" role="37wK5m">
                     <node concept="pncrf" id="2tYSmzL6oQc" role="2Oq$k0" />
@@ -1334,7 +1334,7 @@
                 <node concept="3clFbS" id="6VUKJfQeX2G" role="3clFbx">
                   <node concept="3cpWs6" id="6VUKJfQf4qg" role="3cqZAp">
                     <node concept="2YIFZM" id="3Xewm39Htxo" role="3cqZAk">
-                      <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                      <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                       <ref role="37wK5l" to="qvnp:Cu$LnWTiJ6" resolve="TranslateValidity" />
                       <node concept="2OqwBi" id="5LMx6XM0Wyk" role="37wK5m">
                         <node concept="Rm8GO" id="5LMx6XM0V6x" role="2Oq$k0">
@@ -1373,7 +1373,7 @@
                 <node concept="3clFbS" id="2B7XFRKmpDh" role="3clFbx">
                   <node concept="3cpWs6" id="2B7XFRKmt83" role="3cqZAp">
                     <node concept="2YIFZM" id="3Xewm39Htxp" role="3cqZAk">
-                      <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                      <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                       <ref role="37wK5l" to="qvnp:Cu$LnWTiJ6" resolve="TranslateValidity" />
                       <node concept="2OqwBi" id="Cu$LnWTkyT" role="37wK5m">
                         <node concept="Rm8GO" id="Cu$LnWTkzA" role="2Oq$k0">
@@ -1415,7 +1415,7 @@
               </node>
               <node concept="3cpWs6" id="2B7XFRKmvUL" role="3cqZAp">
                 <node concept="2YIFZM" id="3Xewm39Htxq" role="3cqZAk">
-                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                   <ref role="37wK5l" to="qvnp:Cu$LnWTiJ6" resolve="TranslateValidity" />
                   <node concept="2OqwBi" id="Cu$LnWTGBJ" role="37wK5m">
                     <node concept="Rm8GO" id="Cu$LnWTGBK" role="2Oq$k0">
@@ -1644,7 +1644,7 @@
       <node concept="2iRfu4" id="2B7XFRJNh0a" role="2iSdaV" />
     </node>
     <node concept="2aJ2om" id="Cu$LnWTwM4" role="CpUAK">
-      <ref role="2$4xQ3" node="Cu$LnWyrz3" />
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
     </node>
   </node>
   <node concept="24kQdi" id="Cu$LnWQRP_">
@@ -1680,7 +1680,7 @@
       <node concept="l2Vlx" id="76ic8nLzwQ$" role="2iSdaV" />
     </node>
     <node concept="2aJ2om" id="Cu$LnWR317" role="CpUAK">
-      <ref role="2$4xQ3" node="Cu$LnWyrz3" />
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
     </node>
   </node>
   <node concept="24kQdi" id="Cu$LnWDGwO">
@@ -1697,7 +1697,7 @@
         </node>
       </node>
       <node concept="PMmxH" id="1xJWKvGTG01" role="3EZMnx">
-        <ref role="PMmxG" node="Cu$LnWDIsf" />
+        <ref role="PMmxG" node="Cu$LnWDIsf" resolve="Is" />
         <node concept="A1WHr" id="3jM2k3eCaxS" role="3vIgyS">
           <ref role="2ZyFGn" to="m234:R9Qv6IRKho" resolve="Predicaat" />
         </node>
@@ -1710,7 +1710,7 @@
               <node concept="3clFbF" id="Cu$LnWDPBp" role="3cqZAp">
                 <node concept="2YIFZM" id="2sjzZcOrMfi" role="3clFbG">
                   <ref role="37wK5l" to="qvnp:Cu$LnWDNH0" resolve="OperatorPresentation" />
-                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                   <node concept="2OqwBi" id="2sjzZcOrMfj" role="37wK5m">
                     <node concept="pncrf" id="2sjzZcOrMfk" role="2Oq$k0" />
                     <node concept="3TrcHB" id="2sjzZcOrMfl" role="2OqNvi">
@@ -1744,7 +1744,7 @@
             <node concept="3clFbS" id="1xJWKvGTCWt" role="2VODD2">
               <node concept="3clFbF" id="Cu$LnWDMsO" role="3cqZAp">
                 <node concept="2YIFZM" id="3Xewm39Htxg" role="3clFbG">
-                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                   <ref role="37wK5l" to="qvnp:Cu$LnWDM4N" resolve="danOfAanEN" />
                   <node concept="2OqwBi" id="Cu$LnWDMMl" role="37wK5m">
                     <node concept="pncrf" id="Cu$LnWDMzk" role="2Oq$k0" />
@@ -1775,7 +1775,7 @@
       </node>
     </node>
     <node concept="2aJ2om" id="3Xewm39WhXF" role="CpUAK">
-      <ref role="2$4xQ3" node="Cu$LnWyrz3" />
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
     </node>
   </node>
   <node concept="24kQdi" id="Cu$LnWKvtF">
@@ -1788,7 +1788,7 @@
             <node concept="3clFbS" id="Cu$LnWMPBM" role="2VODD2">
               <node concept="3clFbF" id="Cu$LnWMQ0M" role="3cqZAp">
                 <node concept="2YIFZM" id="3Xewm39Htxl" role="3clFbG">
-                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                  <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                   <ref role="37wK5l" to="qvnp:Cu$LnWMPD0" resolve="TranslateQuantificationCondition" />
                   <node concept="2OqwBi" id="Cu$LnWN3cR" role="37wK5m">
                     <node concept="2OqwBi" id="Cu$LnWMQyD" role="2Oq$k0">
@@ -1822,7 +1822,7 @@
                 <node concept="3clFbS" id="Cu$LnWLPkD" role="2VODD2">
                   <node concept="3clFbF" id="Cu$LnWLPlC" role="3cqZAp">
                     <node concept="2YIFZM" id="3Xewm39Htxm" role="3clFbG">
-                      <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                      <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                       <ref role="37wK5l" to="qvnp:Cu$LnWKwH3" resolve="asText" />
                       <node concept="2OqwBi" id="Cu$LnWLPSK" role="37wK5m">
                         <node concept="pncrf" id="Cu$LnWLPEt" role="2Oq$k0" />
@@ -1924,7 +1924,7 @@
                     </node>
                     <node concept="3cpWs6" id="Cu$LnWMlFq" role="3cqZAp">
                       <node concept="2YIFZM" id="3Xewm39Htxn" role="3cqZAk">
-                        <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="LanguageHelper" />
+                        <ref role="1Pybhc" to="qvnp:Cu$LnW$Paz" resolve="RSLanguageHelper" />
                         <ref role="37wK5l" to="qvnp:Cu$LnWKwH3" resolve="asText" />
                         <node concept="2OqwBi" id="Cu$LnWMlFs" role="37wK5m">
                           <node concept="37vLTw" id="Cu$LnWMlFt" role="2Oq$k0">
@@ -1963,7 +1963,7 @@
       </node>
     </node>
     <node concept="2aJ2om" id="3Xewm39Ohmo" role="CpUAK">
-      <ref role="2$4xQ3" node="Cu$LnWyrz3" />
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
     </node>
   </node>
   <node concept="PKFIW" id="6ySjAV$mU9c">
@@ -1976,7 +1976,7 @@
   <node concept="24kQdi" id="4eptppsBbuv">
     <ref role="1XX52x" to="m234:1ibElXOlZJv" resolve="Conditie" />
     <node concept="2aJ2om" id="4eptppsBbux" role="CpUAK">
-      <ref role="2$4xQ3" node="Cu$LnWyrz3" />
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
     </node>
     <node concept="1QoScp" id="3DPnffp44Nu" role="2wV5jI">
       <property role="1QpmdY" value="true" />
@@ -3370,7 +3370,7 @@
                     <ref role="37wK5l" to="u5to:3jM2k3eKO5k" resolve="maakDeelZin" />
                     <node concept="pncrf" id="2aE9$USCQK8" role="37wK5m" />
                     <node concept="Rm8GO" id="2aE9$USCOrJ" role="37wK5m">
-                      <ref role="1Px2BO" to="u5to:3jM2k3eKPhZ" resolve="Werkwoord" />
+                      <ref role="1Px2BO" to="u5to:3jM2k3eKPhZ" resolve="Taalkundig.Werkwoord" />
                       <ref role="Rm8GQ" to="u5to:3jM2k3eKQv6" resolve="VOLDOEN" />
                     </node>
                     <node concept="Xl_RD" id="2aE9$USCRcM" role="37wK5m">
@@ -4192,7 +4192,7 @@
           </node>
         </node>
         <node concept="PMmxH" id="4KQiE3q$YCz" role="1QoVPY">
-          <ref role="PMmxG" node="6ySjAV$jI1L" />
+          <ref role="PMmxG" node="6ySjAV$jI1L" resolve="LidwoordEN" />
         </node>
       </node>
       <node concept="3EZMnI" id="4w1q0vlRFbT" role="3EZMnx">

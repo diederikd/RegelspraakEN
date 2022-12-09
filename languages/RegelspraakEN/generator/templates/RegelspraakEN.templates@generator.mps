@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:b7e505af-109c-4a24-b29b-2385f275f7c0(NewLanguage.generator.templates@generator)">
+<model ref="r:b7e505af-109c-4a24-b29b-2385f275f7c0(RegelspraakEN.templates@generator)">
   <persistence version="9" />
   <languages>
     <devkit ref="a2eb3a43-fcc2-4200-80dc-c60110c4862d(jetbrains.mps.devkit.templates)" />
   </languages>
   <imports>
-    <import index="qj6t" ref="r:29b484ef-f53c-41f7-bb15-371fe1f236a2(NewLanguage.structure)" />
+    <import index="qj6t" ref="r:29b484ef-f53c-41f7-bb15-371fe1f236a2(RegelspraakEN.structure)" />
   </imports>
   <registry>
     <language id="b401a680-8325-4110-8fd3-84331ff25bef" name="jetbrains.mps.lang.generator">
