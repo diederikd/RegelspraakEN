@@ -486,13 +486,6 @@
       </concept>
     </language>
   </registry>
-  <node concept="2ABfQD" id="2SdDy33EbwA">
-    <property role="TrG5h" value="hints" />
-    <node concept="2BsEeg" id="2SdDy33EbwB" role="2ABdcP">
-      <property role="2gpH_U" value="true" />
-      <property role="TrG5h" value="test" />
-    </node>
-  </node>
   <node concept="24kQdi" id="2SdDy33EbwD">
     <ref role="1XX52x" to="m234:SQYpBFpy4x" resolve="UnivOnderwerp" />
     <node concept="2aJ2om" id="2SdDy33EbXn" role="CpUAK">
