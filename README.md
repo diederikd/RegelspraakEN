@@ -8,6 +8,6 @@ This project contains a partial translation of the Regelspraak language.  The pr
 ## Purpose
 The sole purpose of this project is to explain ALEF and Regelspraak to non Dutch speakers. It can be used to demonstratie rules like the one from EU-RENT.
 
-![image info](./examples/EU-RENT example1.png "example of a regelspraak rule")
+![image info](./examples/EU-RENTexample1.png "example of a regelspraak rule")
 ## Compatibility
 This project is to be used with ALEF-2022.3
