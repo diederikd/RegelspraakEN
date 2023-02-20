@@ -92,6 +92,8 @@
     <dependency reexport="false">65239ca4-9057-41f8-999d-97fa1a60b298(besturingspraak)</dependency>
     <dependency reexport="false">e8bb4b2f-b77e-4e84-b80e-5162581b560d(interpreter.runtime)</dependency>
     <dependency reexport="false">6bf90e42-57fe-4f10-8f78-bd89cffdf18c(editorcells)</dependency>
+    <dependency reexport="false">8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)</dependency>
+    <dependency reexport="false">8585453e-6bfb-4d80-98de-b16074f1d86c(jetbrains.mps.lang.test)</dependency>
   </dependencies>
   <languageVersions>
     <language slang="l:120e1c9d-4e27-4478-b2af-b2c3bd3850b0:com.mbeddr.mpsutil.editor.querylist" version="0" />

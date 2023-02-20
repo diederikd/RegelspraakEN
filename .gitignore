@@ -6,7 +6,7 @@ junitvmwatcher*.properties
 TEST-*.xml
 junit*.properties
 *.history
-#*.html
+*.html
 *.css
 
 # -----------------------------------------------------------
