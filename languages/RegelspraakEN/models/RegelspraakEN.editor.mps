@@ -8686,5 +8686,93 @@
       </node>
     </node>
   </node>
+  <node concept="24kQdi" id="6ed53d2Cack">
+    <ref role="1XX52x" to="m234:5Q$2yZl7uiK" resolve="IsLeeg" />
+    <node concept="3EZMnI" id="1xJWKvGRlhv" role="2wV5jI">
+      <node concept="PMmxH" id="2aE9$UOJ3EO" role="3EZMnx">
+        <ref role="PMmxG" node="Cu$LnWDI5k" resolve="Must" />
+      </node>
+      <node concept="PMmxH" id="1xJWKvGS86D" role="3EZMnx">
+        <ref role="PMmxG" node="Cu$LnWDIsf" resolve="IsEN" />
+        <node concept="A1WHr" id="3jM2k3eC9Tt" role="3vIgyS">
+          <ref role="2ZyFGn" to="m234:R9Qv6IRKho" resolve="Predicaat" />
+        </node>
+        <node concept="pkWqt" id="3jM2k3f2the" role="pqm2j">
+          <node concept="3clFbS" id="3jM2k3f2thf" role="2VODD2">
+            <node concept="3clFbF" id="3jM2k3f2tlT" role="3cqZAp">
+              <node concept="3fqX7Q" id="3jM2k3f2tuy" role="3clFbG">
+                <node concept="2OqwBi" id="3jM2k3f2tu$" role="3fr31v">
+                  <node concept="35c_gC" id="3jM2k3f2tu_" role="2Oq$k0">
+                    <ref role="35c_gD" to="m234:3jM2k3eWuD6" resolve="ITaalkundig" />
+                  </node>
+                  <node concept="2qgKlT" id="3jM2k3f2tuA" role="2OqNvi">
+                    <ref role="37wK5l" to="u5to:2aE9$UP0OFp" resolve="vragendevorm" />
+                    <node concept="pncrf" id="3jM2k3f2tuB" role="37wK5m" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node concept="3F0ifn" id="1xJWKvGRlCo" role="3EZMnx">
+        <property role="3F0ifm" value="empty" />
+        <ref role="1k5W1q" to="mbb7:7MZNd$UeFXk" resolve="VasteTekst" />
+        <node concept="A1WHr" id="3jM2k3eCa0r" role="3vIgyS">
+          <ref role="2ZyFGn" to="m234:R9Qv6IRKho" resolve="Predicaat" />
+        </node>
+      </node>
+      <node concept="PMmxH" id="3jM2k3f2txR" role="3EZMnx">
+        <ref role="PMmxG" node="Cu$LnWDIsf" resolve="IsEN" />
+        <node concept="A1WHr" id="3jM2k3f2txS" role="3vIgyS">
+          <ref role="2ZyFGn" to="m234:R9Qv6IRKho" resolve="Predicaat" />
+        </node>
+        <node concept="pkWqt" id="3jM2k3f2txT" role="pqm2j">
+          <node concept="3clFbS" id="3jM2k3f2txU" role="2VODD2">
+            <node concept="3clFbF" id="3jM2k3f2txV" role="3cqZAp">
+              <node concept="2OqwBi" id="3jM2k3f2txX" role="3clFbG">
+                <node concept="35c_gC" id="3jM2k3f2txY" role="2Oq$k0">
+                  <ref role="35c_gD" to="m234:3jM2k3eWuD6" resolve="ITaalkundig" />
+                </node>
+                <node concept="2qgKlT" id="3jM2k3f2txZ" role="2OqNvi">
+                  <ref role="37wK5l" to="u5to:2aE9$UP0OFp" resolve="vragendevorm" />
+                  <node concept="pncrf" id="3jM2k3f2ty0" role="37wK5m" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node concept="l2Vlx" id="1xJWKvGRlhy" role="2iSdaV" />
+      <node concept="PMmxH" id="7AED00rgl0e" role="3EZMnx">
+        <ref role="PMmxG" node="Cu$LnWA9hS" resolve="PuntEN" />
+      </node>
+    </node>
+    <node concept="2aJ2om" id="6ed53d2CfZF" role="CpUAK">
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
+    </node>
+  </node>
+  <node concept="24kQdi" id="6ed53d2CbCn">
+    <ref role="1XX52x" to="m234:2_n49qovDjf" resolve="Geen" />
+    <node concept="3EZMnI" id="7s3u01tEYm_" role="2wV5jI">
+      <node concept="2iRfu4" id="7s3u01tEYmA" role="2iSdaV" />
+      <node concept="3F0ifn" id="7s3u01tEYmD" role="3EZMnx">
+        <property role="3F0ifm" value="none" />
+        <ref role="1k5W1q" to="mbb7:5Ja52ut3X8r" resolve="Keuze" />
+        <node concept="OXEIz" id="3ivmgvoX_6g" role="P5bDN">
+          <node concept="UkePV" id="3ivmgvoX_8a" role="OY2wv">
+            <ref role="Ul1FP" to="m234:1ibElXOv7qR" resolve="Quantificatie" />
+          </node>
+        </node>
+      </node>
+      <node concept="3F0ifn" id="7s3u01tEYmI" role="3EZMnx">
+        <property role="3F0ifm" value="of" />
+        <ref role="1k5W1q" to="mbb7:7MZNd$UeFXk" resolve="VasteTekst" />
+      </node>
+    </node>
+    <node concept="2aJ2om" id="6ed53d2CfOO" role="CpUAK">
+      <ref role="2$4xQ3" node="Cu$LnWyrz3" resolve="EN" />
+    </node>
+  </node>
 </model>
 
