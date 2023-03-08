@@ -57,7 +57,6 @@
         <module reference="08d6f877-03cc-45d3-b03c-d6f786266853(bronspraak)" version="0" />
         <module reference="b4d28e19-7d2d-47e9-943e-3a41f97a0e52(com.mbeddr.mpsutil.plantuml.node)" version="0" />
         <module reference="e9756da9-d229-455c-ab9e-e4bf1fa8bd36(converter)" version="0" />
-        <module reference="3687aae2-6660-4f63-9485-f13f557f67a9(csv)" version="0" />
         <module reference="471364db-8078-4933-b2ef-88232bfa34fc(gegevensspraak)" version="5" />
         <module reference="a4bbe181-88ec-4b30-b7d3-db0b30b5c709(interpreter.debug)" version="0" />
         <module reference="e8bb4b2f-b77e-4e84-b80e-5162581b560d(interpreter.runtime)" version="0" />
@@ -69,7 +68,6 @@
         <module reference="2d3c70e9-aab2-4870-8d8d-6036800e4103(jetbrains.mps.kernel)" version="0" />
         <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
         <module reference="9ded098b-ad6a-4657-bfd9-48636cfe8bc3(jetbrains.mps.lang.traceable)" version="0" />
-        <module reference="c31f3da0-0042-4ad5-b4fc-2622762fa0fe(linguistics.runtime)" version="0" />
         <module reference="b2fc4154-1657-4d74-8828-c55b57a96ecd(rapporten)" version="0" />
         <module reference="7bbaf860-5f96-44b4-9731-6e00ae137ece(regelspraak)" version="6" />
         <module reference="d8af31be-1847-4d5b-8686-78e232d4e0f8(servicespraak)" version="0" />

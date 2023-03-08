@@ -1887,7 +1887,7 @@
         </node>
       </node>
       <node concept="PMmxH" id="1xJWKvGTG01" role="3EZMnx">
-        <ref role="PMmxG" node="Cu$LnWDIsf" resolve="Is" />
+        <ref role="PMmxG" node="Cu$LnWDIsf" resolve="IsEN" />
         <node concept="A1WHr" id="3jM2k3eCaxS" role="3vIgyS">
           <ref role="2ZyFGn" to="m234:R9Qv6IRKho" resolve="Predicaat" />
         </node>
@@ -9034,18 +9034,18 @@
                               </node>
                               <node concept="3X5gDF" id="3E5Se5zWBOW" role="3X5gFO">
                                 <node concept="Xl_RD" id="3E5Se5zWBOV" role="3X5gDC">
-                                  <property role="Xl_RC" value="het aantal" />
+                                  <property role="Xl_RC" value="the count" />
                                 </node>
                               </node>
                             </node>
                             <node concept="3X5gDF" id="3E5Se5$1nnL" role="3XxORw">
                               <node concept="3cpWs3" id="3E5Se5$65PR" role="3X5gDC">
                                 <node concept="Xl_RD" id="3E5Se5$65PY" role="3uHU7w">
-                                  <property role="Xl_RC" value=" van" />
+                                  <property role="Xl_RC" value=" of" />
                                 </node>
                                 <node concept="3cpWs3" id="3E5Se5$651x" role="3uHU7B">
                                   <node concept="Xl_RD" id="3E5Se5$65d4" role="3uHU7B">
-                                    <property role="Xl_RC" value="de " />
+                                    <property role="Xl_RC" value="the " />
                                   </node>
                                   <node concept="2OqwBi" id="3E5Se5$1nTl" role="3uHU7w">
                                     <node concept="37vLTw" id="3E5Se5$1nnJ" role="2Oq$k0">
